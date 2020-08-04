@@ -65,4 +65,4 @@ Alongside the PhD, Jenny is also involved with projects exploring the teaching a
 
 Jenny is a PGCert-qualified HEA Fellow with experience lecturing, running seminars, supporting workshops, and co-supervising dissertations for undergraduates as well as developing and running workshops for staff and PGRs. Topics taught include statistics (with R/RStudio and SPSS), quantitiave and qualitative research methods, social psychology, and cognitive psychology. Jenny endeavours to make learning inclusive, enjoyable, and stimulating for a range of abilities.
 
-Jenny's administrative experience includes institutional-level research lead for a ~£500K OfS-funded project, reviewing replication project plans for the Collaborative Research Education Project (CREP), organising an informal network for PhD researchers of statistics education in psychology, and supervision of a peer-learning scheme.
+Jenny's administrative experience includes institutional-level research lead for a ~£500K OfS-funded project, organising an informal network for PhD researchers of statistics education in psychology, and supervision of a peer-learning scheme.
