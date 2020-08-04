@@ -1,0 +1,15 @@
+---
+title: "Working Title"
+author: "Jenny Terry"
+date: 04-08-2020
+categories: []
+tags: ["postgraduates", "statistics", "computational modelling", "mathematical psychology", "psypag", "bps", "msc section"]
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(collapse = TRUE)
+```
+
+### My First Blog Post
+
+Testing testing
