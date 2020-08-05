@@ -9,14 +9,29 @@
   weight = 10
 
 [[main]]
-  name = "Projects"
-  url = "projects_page/"
-  weight = 20
+  name = "PsyPAG"
+  url = "psypag_page/"
+  weight = 15
+
+[[main]]
+ # name = "RoSE Network"
+ # url = "siepn_page/"
+ # weight = 20
+
+[[main]]
+ # name = "Projects"
+ # url = "projects_page/"
+ # weight = 25
 
 [[main]]
   name = "Publications"
   url = "publication_page/"
   weight = 30
+
+[[main]]
+  name = "Posters"
+  url = "posters_page/"
+  weight = 35
 
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.

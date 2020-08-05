@@ -7,7 +7,7 @@ tags: []
 
 
 
-**Postgraduate experiences of open science**
+**Postgraduate experiences of open science.**
 
 **Does acknowledging statistics anxiety increase it?**
 

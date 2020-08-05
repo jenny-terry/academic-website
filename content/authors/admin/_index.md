@@ -19,8 +19,8 @@ education:
 email: "jlt26@sussex.ac.uk"
 interests:
 - Statistics Education
-- Emotions and Attitudes in Higher Education
-- Under-represented Groups in Higher Education
+- Emotions & Attitudes in Learning & Teaching
+- Non-Traditional/Under-Represented Groups in Higher Education
 - Quantitative Psychology
 - Meta Psychology
 - Open Science
@@ -56,13 +56,11 @@ user_groups:
 - Researchers
 - Visitors
 ---
+Jenny Terry is a Doctoral Researcher and Doctoral Tutor in the School of Psychology at the University of Sussex (2019 – 2022). She also works as a temporary Lecturer at the University of Brighton, teaching research methods and statistics.
 
-Jenny Terry is currently a Doctoral Researcher and Doctoral Tutor in the School of Psychology at the University of Sussex. She also teaches research methods and statistics at the University of Brighton and is the PsyPAG representative for the British Psychological Society's Mathematical, Statistical, and Computing Psychology section.
-
-Jenny predominantly uses quantitative methods to explore the impact of emotions and attitudes upon achievement in higher education, particularly on introductory statistics courses in psychology. Her PhD combines these substantive interests with an enthusiasm for improving methods in psychology by focusing on theory and measurement in statistics anxiety research - is it a unique construct and what are the subsequent implications?
+Jenny predominantly uses quantitative methods to explore the impact of emotions and attitudes upon achievement in higher education, particularly on introductory statistics courses in psychology. Her PhD combines these substantive interests with an enthusiasm for improving methods in psychology by focusing on the construct of statistics anxiety, asking whether it is unique and what the subsequent theoretical and methodological implications are.
 
 Alongside the PhD, Jenny is also involved with projects exploring the teaching and learning of R/RStudio, postgraduate researchers' experiences of doing open science, and whether introducing statistics to students as an anxiety-inducing subject itself induces anxiety.
 
-Jenny is a PGCert-qualified HEA Fellow with experience lecturing, running seminars, supporting workshops, and co-supervising dissertations for undergraduates as well as developing and running workshops for staff and PGRs. Topics taught include statistics (with R/RStudio and SPSS), quantitiave and qualitative research methods, social psychology, and cognitive psychology. Jenny endeavours to make learning inclusive, enjoyable, and stimulating for a range of abilities.
+Jenny has founded a network for other PhD researchers interested in statistics education in psychology and is the PsyPAG representative for the British Psychological Society's Mathematical, Statistical, and Computing Psychology section.
 
-Jenny's administrative experience includes institutional-level research lead for a ~£500K OfS-funded project, organising an informal network for PhD researchers of statistics education in psychology, and supervision of a peer-learning scheme.
