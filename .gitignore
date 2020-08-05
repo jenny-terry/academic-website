@@ -4,4 +4,8 @@
 # Hugo
 resources/
 public/
+
 .Rproj.user
+.Rhistory
+
+themes/hugo-academic/
