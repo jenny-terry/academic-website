@@ -58,7 +58,7 @@ user_groups:
 ---
 Jenny Terry is a Doctoral Researcher and Doctoral Tutor in the School of Psychology at the University of Sussex (2019 – 2022). She also works as a temporary Lecturer at the University of Brighton, teaching research methods and statistics.
 
-Jenny predominantly uses quantitative methods to explore the impact of emotions and attitudes upon achievement in higher education, particularly on introductory statistics courses in psychology. Her PhD combines these substantive interests with an enthusiasm for improving methods in psychology by focusing on the construct of statistics anxiety, asking whether it is unique and what the subsequent theoretical and methodological implications are.
+Jenny predominantly uses quantitative methods to explore the impact of emotions and attitudes upon achievement in higher education, particularly on introductory statistics courses in psychology. Her PhD combines these substantive interests with an enthusiasm for improving methods in psychology by exploring whether statistics anxiety is a unique construct and what the subsequent theoretical and methodological implications are.
 
 Alongside the PhD, Jenny is also involved with projects exploring the teaching and learning of R/RStudio, postgraduate researchers' experiences of doing open science, and whether introducing statistics to students as an anxiety-inducing subject itself induces anxiety.
 
