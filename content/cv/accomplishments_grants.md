@@ -3,9 +3,9 @@
 widget = "accomplishments"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
-weight = 70  # Order that this section will appear.
+weight = 40  # Order that this section will appear.
 
-title = "Prizes"
+title = "Grants"
 subtitle = ""
 
 # Date format
@@ -19,42 +19,33 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[item]]
-  organization = "University of Sussex"
-  organization_url = ""
-  title = "MRes Psychological Methods Prize"
-  url = ""
+  organization = "British Psychological Society"
+  organization_url = "https://www.bps.org.uk"
+  title = "Undergraduate Research Assistantship - £1600"
+  url = "https://www.bps.org.uk/about-us/awards-and-grants/society-grants/undergraduate-research-assistantship-scheme"
   certificate_url = ""
-  date_start = "2018-10-01"
+  date_start = "2016-05-01"
   date_end = ""
   description = ""
 
 [[item]]
   organization = "University of Brighton"
   organization_url = ""
-  title = "Governor's Prize"
+  title = "Springboard Grant - £450"
   url = ""
   certificate_url = ""
-  date_start = "2017-07-01"
+  date_start = "2016-05-01"
   date_end = ""
   description = ""
   
 [[item]]
-  organization = "British Psychological Society"
+  organization = "Santander Universities"
   organization_url = ""
-  title = "Undergraduate Prize"
-  url = "http://blogs.brighton.ac.uk/sass/2017/07/28/graduation-sass-prizewinners-the-class-of-2017/"
+  title = "Enterprise Competition - £250"
+  url = ""
   certificate_url = ""
-  date_start = "2017-07-01"
+  date_start = "2016-02-01"
   date_end = ""
   description = ""
-  
-[[item]]
-  organization = "University of Brighton - School of Applied Social Science"
-  organization_url = ""
-  title = "Hamilton-Cramp Prize"
-  url = "http://blogs.brighton.ac.uk/sass/2017/07/28/graduation-sass-prizewinners-the-class-of-2017/"
-  certificate_url = ""
-  date_start = "2017-07-01"
-  date_end = ""
-  description = ""
+
 +++
