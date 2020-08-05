@@ -1,14 +1,15 @@
 ---
 title: "Working Title"
 author: "Jenny Terry"
-date: 04-08-2020
+date: "`r Sys.Date()`"
 categories: []
 tags: ["postgraduates", "statistics", "computational modelling", "mathematical psychology", "psypag", "bps", "msc section"]
 ---
 
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(collapse = TRUE)
+```
 
+### My First Blog Post
 
-<div id="my-first-blog-post" class="section level3">
-<h3>My First Blog Post</h3>
-<p>Testing testing</p>
-</div>
+Testing testing

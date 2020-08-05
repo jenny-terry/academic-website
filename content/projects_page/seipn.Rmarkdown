@@ -1,0 +1,17 @@
+---
+title: "Statistics Education in Psychology Network"
+author: "Jenny Terry"
+date: "`r Sys.Date()`"
+tags: []
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(collapse = TRUE)
+```
+
+**Postgraduate experiences of open science**
+
+**Does acknowledging statistics anxiety increase it?**
+
+
+
