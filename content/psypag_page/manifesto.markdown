@@ -5,6 +5,7 @@ author: ""
 date: "2020-08-05"
 categories: []
 tags: []
+weight: 10
 ---
 
 
@@ -13,7 +14,7 @@ I am the [PsyPAG](http://www.psypag.co.uk/) representative for the Mathematical,
 
 To give some insight into why I applied for this position and what my current priorities are, below are the questions and responses from my application.
 
-Really, however, I want to hear from current postgraduates about your experiences so please do [get in touch](home/contact.md) with your questions and comments.
+Really, however, I want to hear from current postgraduates about your experiences so please do feel free to [contact me](#contact) with your comments and questions.
 
 ### What issues do you think are important for postgraduate psychologists who would be represented by your position/division?
 
