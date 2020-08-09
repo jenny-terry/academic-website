@@ -2,10 +2,11 @@
 #   To link a homepage widget, specify the URL as a hash `#` followed by the filename of the
 #     desired widget in your `content/home/` folder.
 #   The weight parameter defines the order that the links will appear in.
+
 [[main]]
-  name = "Blog"
-  url = "blog_page/"
-  weight = 10
+  name = "Home"
+  url = "#authors"
+  weight = 05
 
 [[main]]
   name = "PsyPAG"
@@ -13,12 +14,12 @@
   weight = 15
 
 [[main]]
- # name = "RoSE Network"
- # url = "siepn_page/"
- # weight = 20
+ name = "RoSE Network"
+ url = "seipn_page/"
+ weight = 20
 
 [[main]]
- # name = "Projects"
+ # name = "Research Projects"
  # url = "projects_page/"
  # weight = 25
 
@@ -34,10 +35,17 @@
 
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
+
+
 [[main]]
   name = "CV"
   url = "cv_page/"
   weight = 40
+
+[[main]]
+  name = "Blog"
+  url = "blog_page/"
+  weight = 45
 
 [[main]]
   name = "Contact"

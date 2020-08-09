@@ -50,4 +50,3 @@ subtitle = ""
  css_class = ""
 +++
 
-Whilst an undergraduate student at the University of Brighton, I was involved in the publication of two peer-reviewed articles which are featured below.

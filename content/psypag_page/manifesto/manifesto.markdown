@@ -1,22 +1,11 @@
 ---
-title: "PsyPAG Committee"
-subtitle: "Mathematical, Statistical, & Computing Psychology Section"
-author: ""
-date: "`r Sys.Date()`"
-categories: []
-tags: []
+title: "Manifesto"
+subtitle: ""
+date: "2020-08-09"
 weight: 10
 ---
 
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(collapse = TRUE)
-```
 
-I am the [PsyPAG](http://www.psypag.co.uk/) representative for the Mathematical, Statistical, & Computing Section of the [British Psychological Society](http://www.bps.org.uk) for the 2020/21 and 2021/22 academic years.
-
-To give some insight into why I applied for this position and what my current priorities are, below are the questions and responses from my application.
-
-Really, however, I want to hear from current postgraduates about your experiences so please do feel free to [contact me](#contact) with your comments and questions.
 
 ### What issues do you think are important for postgraduate psychologists who would be represented by your position/division?
 

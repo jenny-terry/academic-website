@@ -1,0 +1,13 @@
+---
+title: "Committee Updates"
+subtitle: ""
+date: "`r Sys.Date()`"
+weight: 20
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(collapse = TRUE)
+```
+
+Updates related to my committee work will be posted here.
+
