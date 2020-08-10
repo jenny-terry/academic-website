@@ -36,7 +36,7 @@ height = ""
 
 [[item]]
   title = "RoSE Psych Network"
-  content = "A informal group for PhD Researchers of Statistics Education in Psychology to connect & collaborate"
+  content = "A informal group for PhD Researchers of Statistics Education in Psychology to connect & collaborate."
   align = "center"  # Choose `center`, `left`, or `right`.
 
   # Overlay a color or image (optional).

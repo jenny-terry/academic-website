@@ -26,7 +26,7 @@ date: "2018-12-21T00:00:00Z"
 doi: "https://doi.org/10.5964/jspp.v6i2.902"
 featured: false
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/jdD8gXaTZsc)'
+  #caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/jdD8gXaTZsc)'
   focal_point: ""
   preview_only: false
 projects: []
