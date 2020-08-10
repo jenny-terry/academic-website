@@ -58,9 +58,9 @@ user_groups:
 ---
 Jenny Terry is a Doctoral Researcher and Doctoral Tutor in the School of Psychology at the University of Sussex (2019 – 2022). She also works as a temporary Lecturer at the University of Brighton, teaching research methods and statistics.
 
-Jenny predominantly uses quantitative methods to explore the impact of emotions and attitudes upon achievement in higher education, particularly on introductory statistics courses in psychology. Her PhD combines these substantive interests with an enthusiasm for improving methods in psychology by exploring whether statistics anxiety is a unique construct and what the subsequent theoretical and methodological implications are.
+Jenny's research background centres around the impact of emotions and attitudes upon achievement in higher education, particularly on introductory statistics courses in psychology. Her PhD combines her substantive interests with an enthusiasm for improving methods in psychology by exploring whether statistics anxiety is a unique construct and what the subsequent theoretical and methodological implications are.
 
-Alongside the PhD, Jenny is also involved with projects exploring the teaching and learning of R/RStudio, postgraduate researchers' experiences of doing open science, and whether introducing statistics to students as an anxiety-inducing subject itself induces anxiety.
+Alongside the PhD, Jenny is also involved with projects exploring the teaching and learning of R/RStudio, postgraduate researchers' experiences of doing open science, and whether pre-empting student anxiety about statistics itself induces anxiety.
 
-Jenny has founded a network for other PhD researchers interested in statistics education in psychology and is the PsyPAG representative for the British Psychological Society's Mathematical, Statistical, and Computing Psychology section.
+Jenny is a founding member of a network of PhD researchers interested in statistics education in psychology and is the PsyPAG representative for the British Psychological Society's Mathematical, Statistical, and Computing Psychology section.
 
