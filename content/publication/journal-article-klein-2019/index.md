@@ -16,7 +16,7 @@ date: "2019-09-01T00:00:00Z"
 doi: "10.1080/09687599.2019.1584090"
 featured: false
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/jdD8gXaTZsc)'
+  caption: 
   focal_point: ""
   preview_only: false
 projects: []
@@ -28,7 +28,6 @@ publishDate: "2019-04-08T00:00:00Z"
 slides: 
 summary: We conclude that peer support groups can offer new and vital possibilities, re-situating participants from individualised positions of burden, isolation and social exclusion to confident, positive, active connectedness, by means of an affective and effective relational process we call ‘solidarity-as-care’.
 tags:
-- Source Themes
 title: "Peer support groups for parent-carers of children with attention deficit hyperactivity disorder: the importance of solidarity as care"
 url_code: ""
 url_dataset: ""
@@ -39,13 +38,3 @@ url_slides: ""
 url_source: ""
 url_video: ""
 ---
-
-{{% alert note %}}
-Click the *Cite* button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-{{% /alert %}}
-
-{{% alert note %}}
-Click the *Slides* button above to demo Academic's Markdown slides feature.
-{{% /alert %}}
-
-Supplementary notes can be added here, including [code and math](https://sourcethemes.com/academic/docs/writing-markdown-latex/).

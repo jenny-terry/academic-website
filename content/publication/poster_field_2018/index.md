@@ -25,5 +25,6 @@ url_poster: 'http://www.discoveringstatistics.com/docs/rss_poster_2018.pdf'
 url_project: ''
 url_slides: ''
 url_source: ''
-url_video: '' 
+url_video: ''  
 ---
+
