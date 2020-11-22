@@ -19,6 +19,15 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[item]]
+  organization = "University of Sussex - School of Psychology"
+  organization_url = ""
+  title = "1st Year PhD Poster Competition"
+  url = ""
+  date_start = "2020-11-01"
+  date_end = ""
+  description = "Best Poster"
+
+[[item]]
   organization = "University of Brighton - School of Applied Social Science"
   organization_url = ""
   title = "Brighton Undergraduate Dissertation Showcase"

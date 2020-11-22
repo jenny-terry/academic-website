@@ -12,7 +12,7 @@ publication_types:
 - "1"
 publishDate: "2019-06-01T00:00:00Z"
 slides: 
-summary: "Teaching staff at a UK university who had recently undertaken introductory R/RStudio training took part in group interviews that explored their experiences of learning R/RStudio and how they thought their students would fare. Analysis indicated that motivation was crucial to overcoming the learning curve and that self-efficacy, percieved value, accountability, and managed anxiety were important to maintaining motivation."
+summary: "Teaching staff at a UK university who had recently undertaken introductory R/RStudio training took part in group interviews that explored their experiences of learning R/RStudio and how they thought their students would fare. Analysis indicated that motivation was crucial to overcoming the learning curve and that self-efficacy, perceived value, accountability, and managed anxiety were important to maintaining motivation."
 tags:
 title: "Social science faculty view motivation as the key to overcoming barriers to learning R/RStudio"
 url_code: ''
