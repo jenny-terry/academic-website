@@ -32,7 +32,7 @@ height = ""
   cta_label = "Find out more"
   cta_url = "psypag_page/"
   cta_icon_pack = "fas"
-  cta_icon = "chart-bar"
+  cta_icon = "chart-bar" 
 
 [[item]]
   title = "RoSE Psych Network"
@@ -41,8 +41,8 @@ height = ""
 
   # Overlay a color or image (optional).
   #   Deactivate an option by commenting out the line, prefixing it with `#`.
-  # overlay_color = "#B4045F"  # An HTML color value.
-  overlay_img = "rose_psych.png"  # Image path relative to your `static/img/` folder.
+  overlay_color = "#B4045F"  # An HTML color value.
+  #overlay_img = "rose_psych.png"  # Image path relative to your `static/img/` folder.
   overlay_filter = 0.5  # Darken the image. Value in range 0-1.
 
   # Call to action button (optional).

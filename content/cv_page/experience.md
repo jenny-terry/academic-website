@@ -26,6 +26,10 @@ date_format = "Jan 2006"
   date_start = "2019-10-01"
   date_end = ""
   description = """
+  10/2020 – 12/2020	- Discovering Statistics - Level 5 UGs
+  
+  10/2020 – 12/2020	- Psychology as a Science - Level 4 UGs
+  
   02/2020 – 04/2020	- Social Psychology - Level 5 UGs
   
   12/2019 – 01/2020	- Cognitive Psychology - Level 5 UGs
