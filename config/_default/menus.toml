@@ -18,8 +18,8 @@
  url = "rosepsych_page/"
  weight = 20
 
-[[main]]
- # name = "Research Projects"
+# [[main]]
+ # name = "Current Projects"
  # url = "projects_page/"
  # weight = 25
 
@@ -36,11 +36,15 @@
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 
-
 [[main]]
   name = "CV"
-  url = "cv_page/"
+  url = "files/cv.pdf"
   weight = 40
+
+# [[main]]
+ # name = "CV_old"
+ # url = "cv_page/"
+ # weight = 40
 
 [[main]]
   name = "Blog"
