@@ -57,10 +57,12 @@ user_groups:
 - Researchers
 - Visitors
 ---
-Jenny Terry is a Doctoral Researcher and Doctoral Tutor in the School of Psychology at the University of Sussex (2019 – 2022). She also works as a temporary Lecturer at the University of Brighton, teaching research methods and statistics.
+Jenny Terry (she/her) is a Doctoral Researcher and Doctoral Tutor in the School of Psychology at the University of Sussex (2019 – 2022). She also works as a temporary Lecturer at the University of Brighton, teaching research methods and statistics.
 
 Jenny's PhD combines her enthusiasm for improving research methods in psychology with her substantive interests in the impact of emotions and attitudes upon achievement in introductory statistics courses by exploring the construct validity of statistics anxiety using a variety of psychometric and other methods.
 
 Alongside the PhD, Jenny is also collaborating on projects exploring the teaching and learning of R/RStudio, postgraduate researchers' experiences of open science, and whether pre-empting student anxiety about statistics itself induces anxiety.
 
 Jenny is the PsyPAG Chair-Elect (2021-2023) and representative for the British Psychological Society's Mathematical, Statistical, and Computing Psychology section (2020-2022) and is the founder of the RoSE (Researchers in Statistics Education) Network.
+
+
