@@ -13,7 +13,7 @@ view: 2
 
 <span style = "color:#e770a1"> Terry, J., Field, A. P., et al. (In Progress)</span>
 
-Recent research has indicated that indicated that statistics anxiety and maths anxiety are unlikely to be separate constructs. The proposed project will examine whether these findings (conceptually) replicate in an large, international sample and whether the construct underlying statistics anxiety and maths anxiety is itself unique, or whether it can be attributed to a more general anxiety construct. 
+Recent research has indicated that statistics anxiety and maths anxiety are unlikely to be separate constructs. The proposed project will examine whether these findings (conceptually) replicate in an large, international sample and whether the construct underlying statistics anxiety and maths anxiety is itself unique, or whether it can be attributed to a more general anxiety construct. 
 
 Approximately 100,000 students in ~155 universities in ~46 countries that have taken or are taking statistics as part of an otherwise non-maths based degree will be invited to take part in an online study. The survey contains measures of statistics anxiety, maths anxiety, and a series of other constructs that may be underlying or are theoretically related to statistics anxiety and maths anxiety. We will also be collecting data from research partners about the statistics courses that the students have/are taking and collecting student grades for those courses. This data will be subjected to a series of psychometric analyses to examine our core research question.
 
