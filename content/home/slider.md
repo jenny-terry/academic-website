@@ -16,8 +16,8 @@ height = ""
 # Slides.
 # Duplicate an `[[item]]` block to add more slides.
 [[item]]
-  title = "PsyPAG Committee Representative"
-  content = "BPS Mathematical, Statistical, & Computing Psychology section."
+  title = "PsyPAG"
+  content = "Chair Elect & BPS Mathematical, Statistical, & Computing Psychology Section Representative."
   align = "center"  # Choose `center`, `left`, or `right`.
 
   # Overlay a color or image (optional).
@@ -35,21 +35,21 @@ height = ""
   cta_icon = "chart-bar" 
 
 [[item]]
-  title = "RoSE Psych Network"
-  content = "A informal group for PhD Researchers of Statistics Education in Psychology to connect & collaborate."
+  title = "RoSE Network"
+  content = "An international virtual lab for **R**esearchers **o**f **S**tatistics **E**ducation to connect & collaborate."
   align = "center"  # Choose `center`, `left`, or `right`.
 
   # Overlay a color or image (optional).
   #   Deactivate an option by commenting out the line, prefixing it with `#`.
-  overlay_color = "#B4045F"  # An HTML color value.
-  #overlay_img = "rose_psych.png"  # Image path relative to your `static/img/` folder.
+  overlay_color = "#e770a1"  # An HTML color value.
+  #overlay_img = "rose_network.png"  # Image path relative to your `static/img/` folder.
   overlay_filter = 0.5  # Darken the image. Value in range 0-1.
 
   # Call to action button (optional).
   #   Activate the button by specifying a URL and button label below.
   #   Deactivate by commenting out parameters, prefixing lines with `#`.
   cta_label = "Find out more"
-  cta_url = "rosepsych_page/"
+  cta_url = "rosenetwork_page/"
   cta_icon_pack = "fas"
   cta_icon = "chalkboard-teacher"
 +++
