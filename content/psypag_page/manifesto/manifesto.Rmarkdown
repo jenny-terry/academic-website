@@ -1,6 +1,6 @@
 ---
 title: "Manifesto"
-subtitle: ""
+subtitle: "BPS Mathematical, Statistical, & Computing Psychology Section Representative"
 date: "`r Sys.Date()`"
 weight: 10
 ---
@@ -9,15 +9,15 @@ weight: 10
 knitr::opts_chunk$set(collapse = TRUE)
 ```
 
-### What issues do you think are important for postgraduate psychologists who would be represented by your position/division?
+**What issues do you think are important for postgraduate psychologists who would be represented by your position/division?**
 
-Psychology is experiencing renewed interest in improving quantitative methods, but much work remains. Reforms have largely developed from grassroots movements but without top-down support, awareness is somewhat siloed and postgraduates face risks and uncertainty. To address these problems, postgraduates need:
+Psychology is experiencing renewed interest in improving quantitative methods, but much work remains. Reforms have largely developed from grassroots movements but awareness is somewhat siloed and postgraduates face risks and uncertainty. To address these problems, postgraduates need:
 
 * Widespread, equal access to training in the critiques of and new approaches to quantitative psychology
 * Clear guidelines and support to assist navigation of competing narratives about the costs and benefits of statistical and methodological reforms
 * Promotion of a culture that better understands, values, and integrates the contributions of mathematical, computational, and other methods-focused work to substantive research
 
-### What relevant experience do you have in representing the views of students or other groups and why do you want to be a PsyPAG rep?
+**What relevant experience do you have in representing the views of students or other groups and why do you want to be a PsyPAG rep?**
 
 Whilst President of my undergraduate Psychology Society, I led a campaign that petitioned stakeholders to help us establish a peer-led mental health course for students, addressing the poor availability of both support and work experience. I represented the views of students and, moreover, acted upon them to deliver lasting positive change.
 
