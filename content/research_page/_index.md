@@ -43,4 +43,4 @@ Maths anxiety and statistics anxiety are currently treated as separate construct
 
 <span style = "color:#e770a1"> Collins, L., Terry, J., Pownall, M., Sladekova, M., & Jones, A. (In Progress)</span>
 
-The Open Science movement in Psychology is becoming ubiquitous. The reforms call for new practices, attitudes, skills, and understandings, and yet we know very little about the influence and impact upon postgraduate research students. This study uses a mixed-methods survey-based approach to examine UK PhD Psychology students' perceptions, understandings, and experience of Open Science.
+The Open Science movement in Psychology is becoming ubiquitous. The reforms call for new practices, attitudes, skills, and knowledge, and yet we know very little about the influence and impact upon postgraduate research students. This study uses a mixed-methods survey-based approach to explore UK PhD Psychology students' perceptions, understandings, and experience of Open Science.
