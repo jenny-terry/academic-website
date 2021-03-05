@@ -10,27 +10,27 @@
 
 [[main]]
   name = "PsyPAG"
-  url = "psypag_page/"
+  url = "psypag/"
   weight = 10
 
 [[main]]
  name = "RoSE Network"
- url = "rosenetwork_page/"
+ url = "rosenetwork/"
  weight = 15
 
 [[main]]
  name = "Research"
- url = "research_page/"
+ url = "research/"
  weight = 20
 
 [[main]]
   name = "Posters"
-  url = "posters_page/"
+  url = "posters/"
   weight = 25
 
 [[main]]
   name = "Publications"
-  url = "publication_page/"
+  url = "publications/"
   weight = 30
 
 # Link to a PDF of your resume/CV from the menu.
