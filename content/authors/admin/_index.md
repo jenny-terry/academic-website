@@ -18,9 +18,8 @@ education:
     year: 2017
 email: "jlt26@sussex.ac.uk"
 interests:
-- Quantitative Psychology
-- Psychometrics
-- Meta Science
+- Psychometrics, Measurement, & Validity
+- Meta-Science
 - Statistics/Maths Education
 - Statistics Software
 - Emotions & Attitudes in Learning & Teaching
@@ -62,3 +61,5 @@ Jenny Terry (she/her) is a Doctoral Researcher and Doctoral Tutor in the School 
 Jenny's PhD combines her enthusiasm for improving research methods in psychology with her substantive interests in statistics education by exploring the construct validity of statistics anxiety using a variety of psychometric and other quantitative methods.
 
 Jenny is the PsyPAG Chair-Elect (2021-2023) and representative for the British Psychological Society's Mathematical, Statistical, and Computing Psychology section (2020-2022) and is the founder of the RoSE (Researchers in Statistics Education) Network.
+
+<a class="twitter-timeline" data-theme="dark" href="https://twitter.com/jennyterry?ref_src=twsrc%5Etfw">Tweets by jennyterry</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>

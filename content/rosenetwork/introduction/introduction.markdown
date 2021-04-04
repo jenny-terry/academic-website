@@ -1,7 +1,7 @@
 ---
 title: "RoSE Network"
 subtitle: "Researchers of Statistics Education"
-date: "2021-03-05"
+date: "2021-04-04"
 weight: 05
 ---
 
@@ -11,6 +11,6 @@ The Researchers of Statistics Education (RoSE) Network is an informal group for 
 
 Examples of our members' research interests include statistics pedagogy, the understanding and application of statistical concepts and tools, the role of attitudes and emotions on statistical comprehension, and the measures and methods used to research statistics education. 
 
-We offer an online space (Slack) to connect with others with similar research interests. Through this, several research collaborations have already been established and, as we look to grow, the group will begin running virtual lab meetings and other events.
+We offer an online space (Slack) to connect with others with similar research interests and we facilitate virtual lab meetings, talks, journal clubs, and keep one another up to date with relevant news and events.
 
 If you'd like to join or have any questions, please [contact me](#contact).
