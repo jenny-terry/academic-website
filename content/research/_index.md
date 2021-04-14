@@ -15,9 +15,9 @@ view: 2
 
 Recent research indicated that statistics anxiety and maths anxiety are unlikely to be separate constructs (Terry & Field, 2021). This project will examine whether these findings (conceptually) replicate in a large, international sample and whether the construct underlying statistics anxiety and maths anxiety is itself unique or whether it can be attributed to a more general underlying anxiety construct.
 
-Approximately 100,000 undergraduate students in ~155 universities in ~46 countries that have taken or are taking statistics as part of an otherwise non-maths based degree will be invited to take part in an online self-report questionnaire study. The survey contains measures of statistics anxiety, maths anxiety, and a series of other constructs that may be underlying or are theoretically related to statistics anxiety and maths anxiety. We will also be collecting maths and statistics achivenment data and information about the students' statistics courses. This data will be analysed with a series of psychometric analyses to examine our core research question.
+Approximately 100,000 undergraduate students in ~155 universities in ~46 countries that have taken or are taking statistics as part of an otherwise non-maths based degree will be invited to take part in an online self-report questionnaire study. The survey contains measures of statistics anxiety, maths anxiety, and a series of other constructs that may be underlying or are theoretically related to statistics anxiety and maths anxiety. We will also be collecting maths and statistics achievement data and information about the students' statistics courses. This data will be analysed with a series of psychometric analyses to examine our core research question.
 
-A secondary aim of this project is the curation of a large open dataset which will be made open to facilitate study into other related research questions.
+A secondary aim of this project is the curating of a large open dataset which will be made open to facilitate study into other related research questions.
 
 ### <span style = "color:#e770a1"> Statistics Anxiety and Maths Anxiety: Evidence of Jangle Fallacy</span>
 
