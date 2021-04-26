@@ -31,7 +31,7 @@ Maths anxiety and statistics anxiety are currently treated as separate construct
 
 ### <span style = "color:#e770a1"> Best Practice for Research Methods in Statistics Education</span>
 
-<span style = "color:#e770a1"> Terry, J. & Field, A. P. (Manuscript in Preparation)</span>
+<span style = "color:#e770a1"> Terry, J. & Field, A. P. (Manuscript in Preparation)</span> 
 
 ### <span style = "color:#e770a1"> A Review of the Theoretical Approaches to Understanding the Relationship between Statistics Anxiety and Statistics Course Achievement</span>
 
