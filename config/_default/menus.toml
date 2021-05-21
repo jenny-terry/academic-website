@@ -11,27 +11,27 @@
 [[main]]
   name = "PsyPAG"
   url = "psypag/"
-  weight = 10
+  weight = 30
 
 [[main]]
  name = "RoSE Network"
  url = "rosenetwork/"
- weight = 15
+ weight = 25
 
 [[main]]
  name = "Research"
  url = "research/"
- weight = 20
+ weight = 10
 
 [[main]]
   name = "Posters"
   url = "posters/"
-  weight = 25
+  weight = 15
 
 [[main]]
   name = "Publications"
   url = "publications/"
-  weight = 30
+  weight = 20
 
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
