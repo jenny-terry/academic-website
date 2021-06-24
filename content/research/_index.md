@@ -50,23 +50,3 @@ Maths anxiety and statistics anxiety are currently treated as separate construct
 ### <span style = "color:#e770a1"> The Moderating Effect of Growth Mindset on the Relationship between Statistics Anxiety and Statistics Course Grades</span>
 
 <span style = "color:#e770a1"> with researchers at the University of Oslo (Norway) and University of Sussex (UK)</span>
-
-### <span style = "color:#e770a1"> Statistics Anxiety and Maths Anxiety in Maths Teachers</span>
-
-<span style = "color:#e770a1"> with a researcher at the University of Haifa (Israel)</span>
-
-### <span style = "color:#e770a1"> Statistics Anxiety and Maths Anxiety in Maths Students</span>
-
-<span style = "color:#e770a1"> with a researcher at Manchester Metropolitan University (UK)</span>
-
-### <span style = "color:#e770a1"> Exploring CBT Techniques as an Intervention for Statistics Anxiety</span>
-
-<span style = "color:#e770a1"> with researchers at the University of Minnesota (USA)</span>
-
-### <span style = "color:#e770a1"> Psychometric Validation of the Cognitive Reflection Task (CRT)</span>
-
-<span style = "color:#e770a1"> with researchers at Macquarie University (Australia), Kadir Has University (Turkey), and the University of Florence (Italy)</span>
-
-### <span style = "color:#e770a1"> Relationships between Statistics and Maths Anxieties and the Cognitive Reflection Task (CRT)</span>
-
-<span style = "color:#e770a1"> with researchers at Macquarie University (Australia)</span>
