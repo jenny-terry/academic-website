@@ -25,7 +25,7 @@ A secondary aim of this project is the curation of a large open dataset to facil
 
 Maths anxiety and statistics anxiety are currently treated as separate constructs in the research literature, yet few studies have examined their distinctiveness. This study tested the distinctiveness of the two constructs using exploratory factor analysis, latent profile analysis, and a between-subjects experimental procedure in a sample of 465 psychology undergraduates. Results indicated that the two constructs mostly likely share an underlying construct and this could not be attributed to the differences in the measurement scales themselves.
 
-<span style = "color:#e770a1"> <a href="https://github.com/jenny-terry/stats_maths_anxiety/blob/master/pre-registration/preregistration_phase1.pdf">Pre-registration</a> | <a href="https://github.com/jenny-terry/stats_maths_anxiety">GitHub</a> | <a href="https://www.jennyterry.co.uk/posters_page/poster_terry_2020/">Poster</a> </span>
+<span style = "color:#e770a1"> <a href="https://osf.io/8jk5v/">OSF</a> | <a href="https://github.com/jenny-terry/stats_maths_anxiety">GitHub</a> | <a href="https://www.jennyterry.co.uk/posters/poster_terry_2020/">Poster</a> </span>
 
 ## PhD Projects (Reviews)
 
