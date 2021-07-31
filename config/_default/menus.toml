@@ -8,10 +8,10 @@
   url = "#authors"
   weight = 05
 
-[[main]]
-  name = "PsyPAG"
-  url = "psypag/"
-  weight = 30
+#[[main]]
+  #name = "PsyPAG"
+  #url = "psypag/"
+  #weight = 30
 
 [[main]]
  name = "RoSE Network"
