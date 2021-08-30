@@ -46,7 +46,3 @@ Maths anxiety and statistics anxiety are currently treated as separate construct
 ### <span style = "color:#e770a1"> Challenge and Threat Appraisals as Moderators of Statistics Anxiety</span>
 
 <span style = "color:#e770a1"> with researchers at the University of Leeds (UK), University of Stirling (UK), and Birmingham City University (UK)</span>
-
-### <span style = "color:#e770a1"> The Moderating Effect of Growth Mindset on the Relationship between Statistics Anxiety and Statistics Course Grades</span>
-
-<span style = "color:#e770a1"> with researchers at the University of Oslo (Norway) and University of Sussex (UK)</span>
