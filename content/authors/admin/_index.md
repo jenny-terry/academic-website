@@ -22,6 +22,7 @@ interests:
 - Statistics Software
 - Psychometrics, Measurement, & Validity
 - Meta-Science
+- Big Team Science
 - Emotions & Attitudes in Learning & Teaching
 - Non-Traditional/Under-Represented Groups in Higher Education
 organizations:
