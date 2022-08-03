@@ -6,7 +6,7 @@ education:
   courses:
   - course: PhD Psychology
     institution: University of Sussex
-    year: 2023 (in progress)
+    year: (in progress)
   - course: PG Cert Learning and Teaching in Higher Education
     institution: University of Brighton
     year: 2019
@@ -19,12 +19,13 @@ education:
 email: "jlt26@sussex.ac.uk"
 interests:
 - Statistics/Maths Education
-- Statistics Software
+- Statistics Software Education
+- Emotions & Attitudes in Learning & Teaching
+- Non-Traditional/Under-Represented Groups in Higher Education
+- Peer learning
 - Psychometrics, Measurement, & Validity
 - Meta-Science
 - Big Team Science
-- Emotions & Attitudes in Learning & Teaching
-- Non-Traditional/Under-Represented Groups in Higher Education
 organizations:
 - name: University of Sussex, School of Psychology
   url: "http://www.sussex.ac.uk/psychology/"
@@ -60,8 +61,8 @@ user_groups:
 
 Jenny Terry (she/her) is a Lecturer in Psychological Methods and Doctoral Researcher in the [School of Psychology](https://www.sussex.ac.uk/schools/psychology/) at the University of Sussex.
 
-Her PhD combines her enthusiasm for improving research methods in psychology with her substantive interests in statistics education by exploring the construct validity of statistics anxiety using a variety of psychometric and other quantitative methods.
+Jenny began teaching research methods and statistics at the undergraduate level in 2017-18 and began teaching R in 2018-19. She now co-convenes the first statistics module at Sussex, upon which she is responsible for introducing students to R and the module's new peer-learning scheme. She has also recently lead teaching in Structural Equation Modelling, Multi-Level Modelling, and Meta-Analysis for Master's students at Sussex.
 
-She also consults on psychometric scale development and provides statistical software training in R/SPSS to non-academic clients.
+Jenny's PhD combines her enthusiasm for improving research methods in psychology with her substantive interests in statistics education by exploring the discriminant validity of statistics anxiety using a variety of psychometric and other quantitative methods, including a large, international, multi-lab study.
 
-Jenny is the Chair of the British Psychological Society's postgraduate group, [PsyPAG](https://www.bps.org.uk/member-microsites/psypag) (2021-2023), postgraduate representative for the BPS's Mathematical, Statistical, and Computing Psychology section (2020-2022), and is the founder of the [RoSE (Researchers in Statistics Education) Network](https://www.jennyterry.co.uk/rosenetwork/).
+Jenny is the Founder and Director the [RoSE (Researchers in Statistics Education) Network](https://www.jennyterry.co.uk/rosenetwork/) (due for re-launch in November 2022) and is an incoming committee member on the British Psychological Society's Mathematical, Statistical, and Computing Psychology section.
