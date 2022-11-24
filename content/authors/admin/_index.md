@@ -18,14 +18,14 @@ education:
     year: 2017
 email: "jlt26@sussex.ac.uk"
 interests:
-- Statistics/Maths Education
-- Statistics Software Education
+- Statistics Education
+- R Pedagogy
 - Emotions & Attitudes in Learning & Teaching
 - Non-Traditional/Under-Represented Groups in Higher Education
-- Peer learning
+- Peer Learning
 - Psychometrics, Measurement, & Validity
-- Meta-Science
 - Big Team Science
+- Meta-Science
 organizations:
 - name: University of Sussex, School of Psychology
   url: "http://www.sussex.ac.uk/psychology/"
@@ -61,8 +61,8 @@ user_groups:
 
 Jenny Terry (she/her) is a Lecturer in Psychological Methods and Doctoral Researcher in the [School of Psychology](https://www.sussex.ac.uk/schools/psychology/) at the University of Sussex.
 
-Jenny began teaching research methods and statistics at the undergraduate level in 2017-18 and began teaching R in 2018-19. She now co-convenes the first statistics module at Sussex, upon which she is responsible for introducing students to R and the module's new peer-learning scheme. She has also recently lead teaching in Structural Equation Modelling, Multi-Level Modelling, and Meta-Analysis for Master's students at Sussex.
+Jenny began teaching research methods and statistics at the undergraduate level in 2017-18 and began teaching R in 2018-19. She now co-convenes the first research methods module at Sussex, upon which she is responsible for introducing students to R and the module's new peer-learning scheme. She has also recently lead teaching in Structural Equation Modelling, Multi-Level Modelling, and Meta-Analysis for Master's students at Sussex.
 
-Jenny's PhD combines her enthusiasm for improving research methods in psychology with her substantive interests in statistics education by exploring the discriminant validity of statistics anxiety using a variety of psychometric and other quantitative methods, including a large, international, multi-lab study.
+Jenny's PhD combines her enthusiasm for improving research methods in psychology with her substantive interests in statistics education by exploring the discriminant validity of statistics anxiety using a variety of psychometric and other quantitative methods, including the [SMARVUS project](https://psyarxiv.com/au9vp) - a multi-lab statistics education study.
 
-Jenny is the Founder and Director the [RoSE (Researchers in Statistics Education) Network](https://www.jennyterry.co.uk/rosenetwork/) (due for re-launch in November 2022) and is an incoming committee member on the British Psychological Society's Mathematical, Statistical, and Computing Psychology section.
+Jenny is also the Founder and Director the [RoSE (Researchers in Statistics Education) Network](https://www.rose-network.org/).
