@@ -59,10 +59,10 @@ user_groups:
 - Visitors
 ---
 
-Jenny Terry (she/her) is a Lecturer in Psychological Methods and Doctoral Researcher in the [School of Psychology](https://www.sussex.ac.uk/schools/psychology/) at the University of Sussex.
+Jenny Terry (she/her) is a Lecturer and Doctoral Researcher of Statistics Education in the [School of Psychology](https://www.sussex.ac.uk/schools/psychology/) at the University of Sussex.
 
-Jenny began teaching research methods and statistics at the undergraduate level in 2017-18 and began teaching R in 2018-19. She now co-convenes the first research methods module at Sussex, upon which she is responsible for introducing students to R and the module's new peer-learning scheme. She has also recently lead teaching in Structural Equation Modelling, Multi-Level Modelling, and Meta-Analysis for Master's students at Sussex.
+Jenny began teaching research methods and statistics at the undergraduate level in 2017-18 and began teaching R in 2018-19. She now convenes the first-year, first-semester statistics module at Sussex, where students are introduced to R. Jenny also teaches on other undergraduate and postgraduate statistics modules.
 
-Jenny's PhD combines her enthusiasm for improving research methods in psychology with her substantive interests in statistics education by exploring the discriminant validity of statistics anxiety using a variety of psychometric and other quantitative methods, including the [SMARVUS project](https://psyarxiv.com/au9vp) - a multi-lab statistics education study.
+Jenny's PhD combines her enthusiasm for improving research methods in psychology with her substantive interests in statistics education by examining the discriminant validity of the popular Statistics Anxiety Rating Scale (Cruise et al., 1985) using a variety of psychometric and other quantitative methods, including the [SMARVUS project](https://psyarxiv.com/au9vp) - a multi-lab statistics education study. She also has an active interest in coding pedagogy.
 
-Jenny is also the Founder and Director the [RoSE (Researchers in Statistics Education) Network](https://www.rose-network.org/).
+Jenny is the Founder and Director the [RoSE (Researchers in Statistics Education) Network](https://www.rose-network.org/).

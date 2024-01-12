@@ -88,7 +88,7 @@ show_related = {docs = false, page = false, post = false, project = false, publi
 ############################
 
 # Enter contact details (optional). To hide a field, clear it to "".
-email = "jlt26@sussex.ac.uk"
+email = "jenny.terry@sussex.ac.uk"
 phone = ""
 
 # Address
